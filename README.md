@@ -10,5 +10,7 @@ Ia juga dilengkapi dengan LCD Display 16 x 2 untuk mempamerkan bacaan kandungan 
 Videonya https://youtu.be/e96hMi42EaM
 
 Ditulis oleh:
-9W2KEY OJ15dx
+<br>
+<b>9W2KEY</b> <i>OJ15dx</i>
+<br>
 July, 2020
